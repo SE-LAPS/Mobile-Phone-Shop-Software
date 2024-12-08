@@ -1,0 +1,26 @@
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.Form1.resources
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.Form2.resources
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.Form3.resources
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.Form4.resources
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.Form5.resources
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\Mobile shop\project\project\bin\Debug\project.exe
+C:\Users\Pc\Desktop\Mobile shop\project\project\bin\Debug\project.pdb
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.exe
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.pdb
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Mobile shop\project\project\obj\x86\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\bin\Debug\project.exe
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\bin\Debug\project.pdb
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.csproj.AssemblyReference.cache
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.Form1.resources
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.Form2.resources
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.Form3.resources
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.Form4.resources
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.Form5.resources
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.csproj.GenerateResource.cache
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.exe
+C:\Users\Lahiru Senavirathna\Downloads\New folder (4)\project\obj\x86\Debug\project.pdb
