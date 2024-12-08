@@ -37,8 +37,15 @@ A robust and user-friendly desktop application for managing mobile phone shop op
 
 2. Open the project in Visual Studio.
 3. Configure the database:
-- ** Import the SQL script from database/mobile_shop.sql into your MySQL server.
-- ** Update the connection string in App.config with your MySQL server credentials.
+- ** Import the SQL script from database/mobile_shop.sql into your MySQL server.**
+- ** Update the connection string in App.config with your MySQL server credentials.**
 4. Build and run the application:
 5. Click on Build > Build Solution in Visual Studio.
 6. Start the application by pressing F5.
+
+
+## 📝 License
+    This project is licensed under the MIT License. See the LICENSE file for more details.
+    
+## 📧 Contact
+For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
