@@ -1,4 +1,4 @@
-# 📱 Mobile Phone Shop Software 
+#  Mobile Phone Shop Software 📱👨‍💻
 
 A robust and user-friendly desktop application for managing mobile phone shop operations, built using **.NET Framework** and **MySQL Server**. This software streamlines inventory, sales, and customer management to enhance efficiency and accuracy.
 
@@ -48,4 +48,4 @@ A robust and user-friendly desktop application for managing mobile phone shop op
     This project is licensed under the MIT License. See the LICENSE file for more details.
     
 ## 📧 Contact
-For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://bit.ly/Lahiru_Senavirathna).
+For any inquiries or feedback, reach out to me at [Lahiru Senavirathna](https://codeshow-lapz.web.app).
