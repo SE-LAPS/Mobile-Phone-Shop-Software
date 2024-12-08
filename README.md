@@ -32,13 +32,13 @@ A robust and user-friendly desktop application for managing mobile phone shop op
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mobile-phone-shop-software.git
+   https://github.com/SE-LAPS/Mobile-Phone-Shop-Software.git
    ```
 
 2. Open the project in Visual Studio.
 3. Configure the database:
-- ** Import the SQL script from database/mobile_shop.sql into your MySQL server.**
-- ** Update the connection string in App.config with your MySQL server credentials.**
+- **Import the SQL script from database/mobile_shop.sql into your MySQL server.**
+- **Update the connection string in App.config with your MySQL server credentials.**
 4. Build and run the application:
 5. Click on Build > Build Solution in Visual Studio.
 6. Start the application by pressing F5.
